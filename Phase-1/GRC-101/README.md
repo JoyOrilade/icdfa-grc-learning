@@ -108,33 +108,6 @@ Throughout this module I developed practical knowledge and skills in:
 
 ---
 
-# Repository Structure
-
-```
-GRC-101/
-│
-├── README.md
-│
-├── Week-01/
-│   ├── Assignment.pdf
-│   ├── Lab Report.pdf
-│   └── Supporting Files/
-│
-├── Week-02/
-│   ├── Exercises.pdf
-│   └── Homework.pdf
-│
-├── Week-03/
-│   └── Risk Management Lab.docx
-│
-├── Week-04/
-│   └── Laboratory Report.pdf
-│
-└── Evidence-of-Practical-Labs/
-```
-
----
-
 # Skills Demonstrated
 
 - Governance, Risk and Compliance (GRC)
