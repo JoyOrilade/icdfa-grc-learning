@@ -1,0 +1,5 @@
+# Evidence of Practical Labs
+
+This folder contains screenshots and other visual evidence of the practical laboratory exercises completed during the GRC 102 module.
+
+The screenshots are organized by week 2 to correspond with the related assignments and lab activities.
