@@ -1,4 +1,4 @@
-# Community Development
+# Community Development Project
 
 ## Overview
 
@@ -42,11 +42,11 @@ The Community Development Project aimed to:
 
 # Repository Structure
 
-## 📁 Governance-and-Policies
+## Governance-and-Policies
 
 Contains the baseline suite of seven cybersecurity policies and guidelines (POL-01 to POL-07) developed to protect institutional information assets and strengthen governance and compliance.
 
-## 📁 Awareness-and-Campaigns
+## Awareness-and-Campaigns
 
 Includes cybersecurity awareness materials developed for staff and stakeholders, such as:
 
@@ -56,7 +56,7 @@ Includes cybersecurity awareness materials developed for staff and stakeholders,
 - Phishing awareness materials
 - Campaign resources
 
-## 📁 Technical-Controls
+## Technical-Controls
 
 Contains technical risk management documentation, including:
 
@@ -65,7 +65,7 @@ Contains technical risk management documentation, including:
 - Risk assessment documentation
 - Security control recommendations
 
-## 📁 Risk-Treatment-and-Review
+## Risk-Treatment-and-Review
 
 Includes project planning and implementation documentation:
 
@@ -74,7 +74,7 @@ Includes project planning and implementation documentation:
 - Final Community Development Project Report
 - Project review documentation
 
-## 📁 Templates
+## Templates
 
 Provides reusable project resources including:
 
@@ -83,7 +83,7 @@ Provides reusable project resources including:
 - Documentation templates
 - Community engagement resources
 
-## 📁 Evidence
+## Evidence
 
 Contains evidence supporting successful execution of the project, including:
 
