@@ -127,9 +127,7 @@ Throughout this module I developed practical knowledge and skills in:
 - Linux
 - Command Line Interface (CLI)
 - Microsoft Word
-- PDF Documentation
 - Git & GitHub
-
 ---
 
 # About ICDFA
