@@ -1,4 +1,5 @@
-# 🛡️ ICDFA GRC Learning
+# <img width="2400" height="2400" alt="image" src="https://github.com/user-attachments/assets/e244de97-b2f7-4458-9838-a3eb92eb1901" />
+ ICDFA GRC Learning
 
 Welcome to my ICDFA Governance, Risk & Compliance (GRC) learning repository.
 
